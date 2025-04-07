@@ -164,7 +164,7 @@
     "href": "Japan.html#data-standardization-and-processing-comments",
     "title": "4  Birds of Japan",
     "section": "4.4 Data standardization and processing comments",
-    "text": "4.4 Data standardization and processing comments\nSources of records were ranked as: NULL = No information, 1 = questionnaires, and 2 = field surveys. Higher numbers means more trustable sources of information. The decision to consider fieldwork as a more trusted source is not based only on species identification (it could be right or wrong anyways) but also on the certainty of time/date of the record and effort invested.\nThe third atlas was extracted from all_data2010.xlsx.\nThe second atlas data was extracted from Birds_Atlas_Japan_1-2_Data.xlsx. The data were matched with Birds_Atlas_Japan_2-3_Field survey data.xlsx to get a subset of records from the second atlas corresponding to fieldwork surveys.",
+    "text": "4.4 Data standardization and processing comments\nSources of records were ranked as: “NULL” = No information, 1 = questionnaires, and 2 = field surveys. Higher numbers means more trustable sources of information. The decision to consider fieldwork as a more trusted source is not based only on species identification but also on the certainty of time/date of the record and effort invested.\nThe third atlas was extracted from all_data2010.xlsx.\nThe second atlas data was extracted from Birds_Atlas_Japan_1-2_Data.xlsx. The data were matched with Birds_Atlas_Japan_2-3_Field survey data.xlsx to get a subset of records from the second atlas corresponding to fieldwork surveys.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Birds of Japan</span>"
     ]
